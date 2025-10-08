@@ -1,5 +1,11 @@
 # Regression Project – Predicting Average Temperature
 
+## Requirements
+All required Python libraries are listed in `requirements.txt`.  
+To install them, run:
+pip install -r requirements.txt
+
+
 ## Project Aim
 The aim of this project was to analyze and predict average temperature using agricultural and environmental data.  
 The dataset was provided by the FAO and IPCC.  
