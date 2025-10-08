@@ -46,14 +46,7 @@ The **Random Forest** model performed best with the highest R² and lowest error
 - Anaconda (environment setup)
 - Google Slides (presentation deck)
 
----
-
-## How to Recreate the Environment (Anaconda)
-To make sure the code runs correctly, follow these steps:
-
-1. **Install Anaconda**  
-   Download from [https://www.anaconda.com](https://www.anaconda.com).
-
-2. **Create a new environment**
-   ```bash
-   conda create -n regression_env python=3.11
+- 
+## Project Links
+- **Trello Board:** https://trello.com/b/oNPwbklD/regression-project   
+- **Presentation (Google Slides):** (https://docs.google.com/presentation/d/1nGYnK4bKrmZIcoi9ehZD_uoa2HgxXh-dTqHhespp3TU/edit?usp=sharing)
